@@ -1,5 +1,5 @@
 # OFRP Device configuration for Motorola One Fusion
-
+# MOVED TO https://github.com/sdm710-motorola/android_device_motorola_astro_ofrp
 ## Device specifications
 
 Basic   | Spec Sheet
